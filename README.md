@@ -12,27 +12,27 @@ untuk tutorial dan dokumentasi yang lebih lengkap mengenai cara pembuatan dashbo
 berikut ialah tampilan apps pada Power BI 
 
 Hompeage
-![gambar](https://user-images.githubusercontent.com/53360759/144245433-50f00878-c6fa-4edb-93c7-34d52e2c1c44.png)
+![gambar](https://user-images.githubusercontent.com/53360759/144245433-50f00878-c6fa-4edb-93c7-34d52e2c1c44.png)<br/>
 
 
 
 Dashboard
-![gambar](https://user-images.githubusercontent.com/53360759/144245557-aed3616a-a172-4d5c-a2da-e43d9379da67.png)
+![gambar](https://user-images.githubusercontent.com/53360759/144245557-aed3616a-a172-4d5c-a2da-e43d9379da67.png)<br/>
 
 
 
 Insight 
-![gambar](https://user-images.githubusercontent.com/53360759/144245624-30c4e2a8-215b-4c0f-9307-10a4c8d9b074.png)
+![gambar](https://user-images.githubusercontent.com/53360759/144245624-30c4e2a8-215b-4c0f-9307-10a4c8d9b074.png)<br/>
 
 
 
 Informasi mengenai COVID-19
-![gambar](https://user-images.githubusercontent.com/53360759/144245688-d4e7b9d3-172e-4703-919d-6c408d89d134.png)
+![gambar](https://user-images.githubusercontent.com/53360759/144245688-d4e7b9d3-172e-4703-919d-6c408d89d134.png)<br/>
 
 
 
 Q&A
-![gambar](https://user-images.githubusercontent.com/53360759/144245762-399efe66-6ebc-41e3-bd36-28f18564e819.png)
+![gambar](https://user-images.githubusercontent.com/53360759/144245762-399efe66-6ebc-41e3-bd36-28f18564e819.png)<br/>
 
 
 
